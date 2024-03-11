@@ -1,4 +1,4 @@
- import os 
+
 #os.system("pkg install sox -y")
 #os.system("play op.mp3")
 #os.system("pkg install espeak")
